@@ -11,11 +11,6 @@ public class Test {
         int b[] = {2,4,5,7};
         mergeSortedArr(a, 4, b , 4);
         System.out.println(Arrays.toString(a));
-
-        DynamicArray dynamicArray = new DynamicArray(2);
-        dynamicArray.add(1);
-        dynamicArray.add("2");
-        dynamicArray.add("哈哈");
     }
 
     /**
