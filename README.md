@@ -23,3 +23,9 @@
 [求斐波那契数列的第n项的值](./day02/TestRecursive.java)  
 [求斐波那契数列前n项的和](./day02/TestRecursive.java)  
 [爬楼梯](./day02/TestRecursive.java)
+
+### 排序
+[求一组元素的第k大元素](./day03/sort/Test.java)
+
+### 二分查找
+[求x的平方根](./day03/binarySearch/Test.java)
