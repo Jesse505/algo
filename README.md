@@ -29,3 +29,7 @@
 
 ### 二分查找
 [求x的平方根](./day03/binarySearch/Test.java)
+
+### 散列表
+[实现一个LRU缓存淘汰算法](./day04/LRUCache.java)
+
