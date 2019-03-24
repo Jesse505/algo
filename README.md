@@ -39,3 +39,8 @@
 
 ### 堆
 [TopK问题](./heap/TopK.md)
+
+### 二叉树
+[翻转二叉树](./BinaryTree/InvertBinaryTree.md)
+[二叉树最大深度](./BinaryTree/MaxDepthInTree.md)
+[二叉树中和为某一值的路径](./BinaryTree/PathSunInTree.md)
