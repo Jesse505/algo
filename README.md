@@ -53,4 +53,4 @@
 
 [平衡二叉树](./BinaryTree/BalancedBinaryTree.md)
 
-[二叉树中和为某一值的路径](./BinaryTree/PathSunInTree.md)
+[二叉树中和为某一值的路径](./BinaryTree/PathSumInTree.md)
